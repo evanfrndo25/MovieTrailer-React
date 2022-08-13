@@ -1,6 +1,6 @@
 Pada kesempatan kali ini, saya membuat web aplikasi trailer movie berbasis API TMDB  dengan menggunakan react v.18.
 
-*untuk menjalankan repository tersebut, pastika sudah terinstal node di perangkat anda.
+*untuk menjalankan repository tersebut, pastika sudah terinstal node di perangkat anda. denan mengecek node -v
 
 untuk panduan membuka website:
 
